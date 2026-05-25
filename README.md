@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush mane
 
-<!--
-**ayushmane851/ayushmane851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate developer interested in AIML
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: AI/ML, Python
+- 💻 Skills: HTML, python, Java, 
+- 📫 Contact:ayushmane851@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, python, Java,
+
+## 🌐 Social Links
+
+- GitHub: https://github.com/ayushmane851
+
+
+
+
+Add GitHub stats badges here.
+
+---
+
+## ⚡ Fun Fact
+
+I love coding and building cool projects.
